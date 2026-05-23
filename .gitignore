@@ -1,0 +1,29 @@
+# Logs
+*.log
+logs/
+*.tmp
+
+# Secrets / credentials
+*.secret.*
+*.token.*
+*.key
+*.pem
+.env
+.env.*
+
+# Backups pessoais
+*.backup
+*.bak
+backups/
+backups-criptografados/
+
+# Windows / editor
+Thumbs.db
+Desktop.ini
+.vscode/
+.idea/
+
+# Dados locais
+local/
+private/
+dados-pessoais/
