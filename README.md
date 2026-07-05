@@ -62,7 +62,7 @@ This toolkit captures these patterns and makes them easy to use and extend.
 **Phase:** Ongoing development and refinement  
 **Last Updated:** May 2026
 
-This is a growing collection of production-ready and experimental automation scripts. New utilities are added as needed.
+This is a growing collection of practical and experimental automation scripts. New utilities are added as needed.
 
 ---
 
@@ -140,7 +140,13 @@ atson-powershell-toolkit/
 
 ---
 
-## Security & Privacy
+## Security and privacy
+
+- No real credentials, tokens, client data or production environment details should be committed.
+- Examples use placeholders or simulated data.
+- Sensitive values must stay in local environment variables or ignored files.
+
+### Additional repository notes
 
 ⚠️ **Critical:**
 - **Never commit credentials, tokens, or secrets**
@@ -172,8 +178,7 @@ This is a personal portfolio project. For improvements or suggestions:
 
 ## License
 
-**License:** Pending decision  
-Currently no explicit license. If you plan to use this code, ask for clarification on licensing terms.
+License: pending decision.
 
 ---
 
